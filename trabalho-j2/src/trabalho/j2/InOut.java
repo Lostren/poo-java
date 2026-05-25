@@ -1,4 +1,4 @@
-package trabalho.java.poo;
+package trabalho.j2;
 
 import javax.swing.JOptionPane;
 import javax.swing.Icon;
